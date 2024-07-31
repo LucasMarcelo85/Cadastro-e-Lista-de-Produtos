@@ -1,4 +1,11 @@
 # Sistema de Cadastro de Produtos
+
+<div> 
+  <a href="https://dev-marcelo.vercel.app/" target="_blank"><img alt=" site" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a> 
+  <a href = "devfullmarcelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcelo-souza-882aab316" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 Este é um projeto simples de cadastro de produtos desenvolvido com HTML, CSS e JavaScript. O objetivo é permitir que os usuários adicionem, visualizem, editem e excluam produtos de uma lista.
 ##
 # Funcionalidades
@@ -18,5 +25,5 @@ style.css: Define os estilos aplicados aos elementos HTML.
 script.js: Contém o código JavaScript responsável pela funcionalidade do sistema.
 # Como Usar
 Clone este repositório:
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/LucasMarcelo85/Cadastro-e-Lista-de-Produtos.git
 Abra o arquivo index.html no seu navegador.
